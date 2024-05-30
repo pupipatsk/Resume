@@ -1,2 +1,2 @@
 # Resume
-Résumé / CV
+[Résumé / CV](main.pdf)
