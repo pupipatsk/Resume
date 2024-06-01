@@ -47,7 +47,8 @@ Captured photos at events and private photo sessions.
 
 -   Awarded 1st Prize Winner & AUC Prize Winner.
 
-**Stock Return Forecasting with Portfolio Optimization** April-May 2024
+**Stock Return Forecasting with Portfolio Optimization Project**
+April-May 2024
 
 -   Developed an Alpha Factor Model for stock return forecasting using
     Classical ML and LSTM networks.
