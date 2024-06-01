@@ -31,7 +31,7 @@ and High School Preparation.
 **Photographer** - Portfolio:
  [instagram.com/pupick.sk](https://www.instagram.com/pupick.sk) 2019 -
 Present\
-Capture photos at events and private photo sessions.
+Captured photos at events and private photo sessions.
 
 **EXTRACURRICULAR ACTIVITIES & ACHIEVEMENT**
 
