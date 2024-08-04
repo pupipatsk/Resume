@@ -1,2 +1,1 @@
-# Resume
-[Résumé / CV](main.pdf)
+# [Résumé / CV](main.pdf)
