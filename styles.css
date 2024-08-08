@@ -1,0 +1,37 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+.center {
+    text-align: center;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+hr {
+    border: 1px solid #ccc;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.frank-ruhl-libre-unique {
+    font-family: "Frank Ruhl Libre", serif;
+    font-optical-sizing: auto;
+    font-weight: 400; /* Replace with desired weight (300 to 900) */
+    font-style: normal;
+}
