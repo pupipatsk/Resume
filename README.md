@@ -1,1 +1,4 @@
-# [Résumé / CV](main.pdf)
+# Résumé / CV
+
+- [Website](https://pupipatsk.github.io/Resume/)
+- [PDF file](main.pdf)
