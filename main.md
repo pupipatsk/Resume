@@ -1,5 +1,5 @@
 ::: center
-**Pupipat Singkhorn**\
+[**Pupipat Singkhorn**](https://pupipatsk.github.io/Resume/)\
 693/120, Indy Condo, Itsaraphap 31 Road  Bangkok, 10600\
 pupipat.sk@gmail.com  082 642 9767
  [ LinkedIn.com/pupipatsk](www.linkedin.com/in/pupipatsk)
@@ -88,16 +88,21 @@ Pattern Recognition 2024 Class Final Project
 -   Implemented Portfolio Optimization techniques within trading
     strategies.
 
-**Google Data Analytics Professional Certificate** July 2023
-
 **Participated in Business Case Competition** 2023
 
 -   *Hult Prize at Chulalongkorn* - Developed a social enterprise Idea
     aligned with the UN SDGs.
 
 -   *Chulalongkorn Case Discovery x Ascend Money* - Formulated a
-    competitive strategy for the TrueMoney financial services
-    application.
+    strategy for financial services application.
+
+**Certifications**
+
+-   *Google Data Analytics Professional* - Issued by: Google via
+    Coursera July 2023
+
+-   *Financial Engineering and Artificial Intelligence in Python* -
+    Issued by: Udemy August 2023
 
 **MISCELLANEOUS**
 
@@ -107,8 +112,8 @@ Pattern Recognition 2024 Class Final Project
 Programming Language: Python, SQL, R, C++, C, Java, HTML, CSS, LaTex,
 Markdown\
 Programming Libraries: PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib,
-Seaborn\
-Applications: Excel, Tableau, Power BI, Adobe Photoshop & Lightroom,
+Seaborn, Plotly\
+Applications: Excel, Power BI, Tableau, Adobe Photoshop & Lightroom,
 Git, GitHub
 
 **Language:** Thai (Native), English
