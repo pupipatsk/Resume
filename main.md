@@ -12,7 +12,7 @@ pupipat.sk@gmail.com  082 642 9767
 
 **Chulalongkorn University** 2022 - Present
 
-Bachelor of Engineering - Computer Engineering Major. GPAX: 3.53\
+Bachelor of Engineering - Computer Engineering Major.\
 Relevant Coursework: Pattern Recognition, Algorithm Design, Data
 Structures, Programming Methodology
 
@@ -98,8 +98,7 @@ Pattern Recognition 2024 Class Final Project
 
 **Certifications**
 
--   *Google Data Analytics Professional* - Issued by: Google via
-    Coursera July 2023
+-   *Google Data Analytics Professional* - Issued by: Google July 2023
 
 -   *Financial Engineering and Artificial Intelligence in Python* -
     Issued by: Udemy August 2023
