@@ -1,9 +1,10 @@
 ::: center
-[**Pupipat Singkhorn**](https://pupipatsk.github.io/Resume/)\
-693/120, Indy Condo, Itsaraphap 31 Road  Bangkok, 10600\
-pupipat.sk@gmail.com  082 642 9767
+**Pupipat Singkhorn**\
+-642-9767  693/120, Indy Condo, Itsaraphap 31 Road, Bangkok 10600\
+pupipat.sk@gmail.com
  [ LinkedIn.com/pupipatsk](www.linkedin.com/in/pupipatsk)
- [ Github.com/pupipatsk](https://github.com/pupipatsk)
+ [ Github.com/pupipatsk](https://github.com/pupipatsk)  [ Personal
+Website](https://pupipatsk.github.io/Resume/)
 :::
 
 **EDUCATION**
@@ -98,22 +99,23 @@ Pattern Recognition 2024 Class Final Project
 
 **Certifications**
 
+-   *Machine Learning Specialization* - Issued by: DeepLearning.AI,
+    Stanford University August 2024
+
 -   *Google Data Analytics Professional* - Issued by: Google July 2023
 
 -   *Financial Engineering and Artificial Intelligence in Python* -
-    Issued by: Udemy August 2023
+    Issued by: Udemy August 2024
 
 **MISCELLANEOUS**
 
 ------------------------------------------------------------------------
 
 **Technical Skills**\
-Programming Language: Python, SQL, R, C++, C, Java, HTML, CSS, LaTex,
-Markdown\
+Programming Language: Python, SQL, C++, C, HTML, CSS, LaTex, Markdown\
 Programming Libraries: PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib,
 Seaborn, Plotly\
-Applications: Excel, Power BI, Tableau, Adobe Photoshop & Lightroom,
-Git, GitHub
+Applications: Excel, Power BI, Tableau, Git, GitHub
 
 **Language:** Thai (Native), English
 
