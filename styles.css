@@ -12,7 +12,7 @@ body {
     max-width: 800px;
     margin: auto;
 }
-hr {
+hr { /* Horizontal line */
     border: 1px solid #ccc;
 }
 /* ul {
@@ -32,6 +32,6 @@ a:hover {
 .frank-ruhl-libre-unique {
     font-family: "Frank Ruhl Libre", serif;
     font-optical-sizing: auto;
-    font-weight: 400; /* Replace with desired weight (300 to 900) */
+    font-weight: 400;
     font-style: normal;
 }
